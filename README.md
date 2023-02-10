@@ -1,3 +1,3 @@
 # Python-Basics
-String method 
+I will add all data types
 
